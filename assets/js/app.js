@@ -13,7 +13,7 @@
 
 const CONFIG = {
   // Backend API URL
-  API_BASE_URL: 'web-production-12da.up.railway.app',
+  API_BASE_URL: 'https://web-production-12da.up.railway.app',
 
   // API Endpoints
   ENDPOINTS: {
